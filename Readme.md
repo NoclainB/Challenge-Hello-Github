@@ -1,0 +1,2 @@
+Voici le lien de la ressource que j'ai séléctionné ---> https://github.com/rtomayko/git-sh
+Il s'agit de Git-sh permettant un gain de temps peut être négligeable dans un premier temps mais conséquant à la fin d'un projet, du moins je l'imagine.
